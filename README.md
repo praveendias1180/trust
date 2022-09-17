@@ -9,3 +9,11 @@
 ## Intercept and modify price in the POST cart request.
 
 ![](price-change.png)
+
+# Information disclosure in error messages
+
+![](info-diclosure.png)
+
+## Reissue requests with Burp Repeater
+
+![](error-message.png)
