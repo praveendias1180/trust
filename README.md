@@ -30,3 +30,7 @@ https://portswigger.net/web-security/cross-site-scripting
 ## Reflected XSS into HTML context with nothing encoded
 
 ![](reflected-xss.png)
+
+## Stored XSS into HTML context with nothing encoded
+
+![](stored-xss.png)
